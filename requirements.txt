@@ -1,0 +1,2 @@
+# ZARA Sales Agent Python dependencies
+# Placeholder dependency list for LangGraph, ChromaDB, Redis, and integrations.

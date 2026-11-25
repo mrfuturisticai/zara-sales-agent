@@ -1,0 +1,1 @@
+"""Pipeline Optimizer agent (placeholder)."""
